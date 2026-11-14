@@ -1,3 +1,14 @@
+## 💸 Support My Work 🤝	
+
+# 💫 Hi 👋, I'm Mohd Valeed
+**A passionate Software Developer from India**
+
+Email Me 👉 ✉️ **mohdvaleedhasan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Startup named "Tallow And Care Private Limited"
+- 🌱 **I’m currently learning:** AI & Data Science
+- 📫 **How to reach me:** mohdvaleedhasan@gmail.com
+- 😄 **Pronouns:** Valeed
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohdvaleed03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-valeed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hasan_valeed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdvaleedhasan@gmail.com) 

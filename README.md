@@ -1,15 +1,21 @@
 ## 💸 Support My Work 🤝	
+# Hi there, I'm Mohd Valeed 👋
 
-# 💫 Hi 👋, I'm Mohd Valeed
-**A passionate Software Developer from India**
+**Full-Stack Software Developer | Co-Founder & Builder at Tallow And Care Private Limited**
 
-Email Me 👉 ✉️ **mohdvaleedhasan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+I am a software developer based in India, focused on building scalable web and mobile applications, automating workflows, and solving real-world operational problems through clean code.
 
-- 🔭 **I’m currently working on:** Startup named "Tallow And Care Private Limited"
-- 🌱 **I’m currently learning:** AI & Data Science
-- 📫 **How to reach me:** mohdvaleedhasan@gmail.com
-- 😄 **Pronouns:** Valeed
+---
 
+### 🚀 About Me
+
+- 🔭 **Currently Working On:** Building and scaling **[Tallow And Care Private Limited](#)**
+- 🌱 **Currently Learning:** Artificial Intelligence and Machine Learning
+- 💻 **Core Focus:** Full-Stack Web Development, Cross-Platform Mobile Apps, REST APIs, and System Automation
+- 📫 **Get in Touch:** [mohdvaleedhasan@gmail.com](mailto:mohdvaleedhasan@gmail.com) — Open to collaborations, technical discussions, and freelance/contract projects
+- 😄 **Pronouns:** He/Him
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohdvaleed03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-valeed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hasan_valeed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdvaleedhasan@gmail.com) 
 

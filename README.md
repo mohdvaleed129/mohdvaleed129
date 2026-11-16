@@ -1,4 +1,3 @@
-## 💸 Support My Work 🤝	
 # Hi there, I'm Mohd Valeed 👋
 
 **Full-Stack Software Developer | Co-Founder & Builder at Tallow And Care Private Limited**
